@@ -9,11 +9,11 @@ We focus on:
 - Anti-phishing education
 
 ## Official Contact
-Email: support@cuanhebats.com  
-Security: security@cuanhebats.com
+Email: support@cuanhebat.com  
+Security: security@cuanhebat.com
 
 ## Brand Identity
 Name: CUANHEBAT  
 Official Domains:  
-- https://cuanhebats.com  
+- https://cuanhebatjp.com  
 - https://cuanhebat.cyou  
