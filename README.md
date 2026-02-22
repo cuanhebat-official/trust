@@ -11,9 +11,9 @@ All official links, domains, and policies are published here for transparency an
 > ⚠️ Only trust links listed here. Any other domains claiming to be CUANHEBAT are NOT official.
 
 ## ✅ Official Channels
-- Telegram: https://t.me/yourchannel  
-- Facebook: https://facebook.com/yourpage  
-- TikTok: https://tiktok.com/@youraccount  
+- Telegram: https://t.me/cuanhebatofficial
+- Facebook: https://facebook.com/cuanhebatofficial
+- TikTok: https://tiktok.com/@cuanhebat
 
 ## 🔒 Security & Anti-Phishing
 To protect users:
