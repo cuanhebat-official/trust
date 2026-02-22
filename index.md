@@ -16,7 +16,7 @@ Halaman ini adalah sumber resmi untuk verifikasi domain, link, dan kebijakan CUA
 - Kami tidak pernah meminta OTP / password via chat.
 - Pastikan selalu cek domain melalui halaman ini.
 
-📩 Laporan phishing: security@cuanhebats.com
+📩 Laporan phishing: security@cuanhebat.com
 
 ## 📄 Kebijakan
 - Privacy Policy  
