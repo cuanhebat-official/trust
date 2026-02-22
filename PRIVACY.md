@@ -17,4 +17,4 @@ We may use cookies and tracking technologies to:
 Users may disable cookies in their browser settings.
 
 ## Contact
-For privacy inquiries: privacy@cuanhebats.com
+For privacy inquiries: privacy@cuanhebat.com
