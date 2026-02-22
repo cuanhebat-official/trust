@@ -21,7 +21,7 @@ To protect users:
 - We do not send random private links.
 - Always verify domains via this repository.
 
-📩 Report suspicious links: security@cuanhebats.com
+📩 Report suspicious links: security@cuanhebat.com
 
 ## 📄 Legal & Policies
 - Privacy Policy → PRIVACY.md  
