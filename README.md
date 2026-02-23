@@ -6,7 +6,7 @@ All official links, domains, and policies are published here for transparency an
 ## ✅ Official Web Properties
 - Main Website: https://cuanhebatpro.com  
 - Alternate Domain: https://cuanhebat.cyou
-- AMP Page: https://amp.cuanhebatjp.com
+- AMP Page: https://amp.cuanhebatpro.com
 
 > ⚠️ Only trust links listed here. Any other domains claiming to be CUANHEBAT are NOT official.
 
