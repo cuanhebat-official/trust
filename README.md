@@ -4,9 +4,9 @@ This repository is the **official public trust center** for CUANHEBAT.
 All official links, domains, and policies are published here for transparency and user safety.
 
 ## ✅ Official Web Properties
-- Main Website: https://cuanhebatpro.com  
+- Main Website: https://cuanhebatjp.com  
 - Alternate Domain: https://cuanhebat.cyou
-- AMP Page: https://amp.cuanhebatpro.com
+- AMP Page: https://amp.cuanhebatjp.com
 
 > ⚠️ Only trust links listed here. Any other domains claiming to be CUANHEBAT are NOT official.
 
