@@ -3,9 +3,9 @@
 This page lists official domains owned and operated by CUANHEBAT.
 
 ## Official Domains
-- cuanhebatjp.com
+- cuanhebatpro.com
 - cuanhebat.cyou
-- amp.cuanhebatjp.com
+- amp.cuanhebatpro.com
 
 ## How to Verify Authenticity
 
