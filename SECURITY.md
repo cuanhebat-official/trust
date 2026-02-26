@@ -9,6 +9,6 @@ If you find:
 - Impersonation of CUANHEBAT
 
 Please report to:
-📩 security@cuanhebats.com
+📩 security@cuanhebat.com
 
 We review all valid reports and take action when necessary.
