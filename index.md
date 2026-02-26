@@ -8,9 +8,9 @@ Selamat datang di **Official Trust Center CUANHEBAT**.
 Halaman ini adalah sumber resmi untuk verifikasi domain, link, dan kebijakan CUANHEBAT.
 
 ## ✅ Domain Resmi
-- https://cuanhebatpro.com  
+- https://cuanhebat3.com  
 - https://cuanhebat.cyou  
-- https://amp.cuanhebatpro.com  
+- https://amp.cuanhebat3.com  
 
 ## 🔐 Keamanan & Anti Phishing
 - Kami tidak pernah meminta OTP / password via chat.
