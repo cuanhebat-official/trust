@@ -15,5 +15,5 @@ Security: security@cuanhebat.com
 ## Brand Identity
 Name: CUANHEBAT  
 Official Domains:  
-- https://cuanhebatpro.com  
+- https://cuanhebat3.com  
 - https://cuanhebat.cyou  
