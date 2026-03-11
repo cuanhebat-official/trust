@@ -8,9 +8,9 @@ Selamat datang di **Official Trust Center CUANHEBAT**.
 Halaman ini adalah sumber resmi untuk verifikasi domain, link, dan kebijakan CUANHEBAT.
 
 ## ✅ Domain Resmi
-- https://cuanhebat3.com  
+- https://erm-crm.org  
 - https://cuanhebat.cyou  
-- https://amp.cuanhebat3.com  
+- https://amp.erm-crm.org  
 
 ## 🔐 Keamanan & Anti Phishing
 - Kami tidak pernah meminta OTP / password via chat.
