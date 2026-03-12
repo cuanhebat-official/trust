@@ -9,7 +9,7 @@ Halaman ini adalah sumber resmi untuk verifikasi domain, link, dan kebijakan CUA
 
 ## ✅ Domain Resmi
 - https://erm-crm.org  
-- https://cuanhebat.cyou  
+- https://cuanhebatjp.com  
 - https://amp.erm-crm.org  
 
 ## 🔐 Keamanan & Anti Phishing
