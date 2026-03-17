@@ -1,6 +1,8 @@
 ---
 title: Official Trust Center – CUANHEBAT
 ---
+![LOGO-GIF](https://github.com/user-attachments/assets/fcc08c4a-a13a-40e6-9c3b-6c2040a5b463)
+
 
 # Official Trust Center — CUANHEBAT
 
