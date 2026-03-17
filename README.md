@@ -1,4 +1,5 @@
 # CUANHEBAT — Official Trust & Verification Hub
+![LOGO-GIF](https://github.com/user-attachments/assets/2d96340b-faf5-4202-88b5-e4179a7b4b44)
 
 This repository is the **official public trust center** for CUANHEBAT.
 All official links, domains, and policies are published here for transparency and user safety.
